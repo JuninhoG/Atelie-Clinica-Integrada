@@ -1,0 +1,5 @@
+{
+  "name": "Ateliê Clínica Integrada",
+  "description": "Landing page premium para Ateliê Clínica Integrada, focada em saúde, bem-estar e estética.",
+  "requestFramePermissions": ["geolocation"]
+}
